@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 19,
+   "execution_count": 1,
    "id": "6cc951f4-5060-4dca-8394-c0e0ad7c76cf",
    "metadata": {},
    "outputs": [
@@ -20,7 +20,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 20,
+   "execution_count": 2,
    "id": "ce8c33de-44ac-4d80-ad6c-1ad2facb7c8e",
    "metadata": {},
    "outputs": [
@@ -42,7 +42,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 21,
+   "execution_count": 12,
    "id": "ab5c7b06-4047-4e5d-8900-a78c7fcca660",
    "metadata": {},
    "outputs": [],
@@ -55,7 +55,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 22,
+   "execution_count": 13,
    "id": "b5da7f26-7531-4e08-b8ec-960bb9526aa5",
    "metadata": {},
    "outputs": [],
@@ -67,7 +67,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 23,
+   "execution_count": 14,
    "id": "04480a9c-ff1c-480c-988d-a4e0c348891d",
    "metadata": {},
    "outputs": [
@@ -87,7 +87,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 24,
+   "execution_count": 15,
    "id": "b80ae4fd-9640-46a3-b29d-4ba08c321190",
    "metadata": {},
    "outputs": [],
@@ -97,7 +97,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 25,
+   "execution_count": 16,
    "id": "8adcc905-c043-4926-b34f-8eaec60fe89a",
    "metadata": {},
    "outputs": [
@@ -117,7 +117,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 26,
+   "execution_count": 17,
    "id": "aee82cf4-251b-487e-8ece-54735964a627",
    "metadata": {},
    "outputs": [
@@ -134,7 +134,7 @@
        "'2'"
       ]
      },
-     "execution_count": 26,
+     "execution_count": 17,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -145,7 +145,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 27,
+   "execution_count": 18,
    "id": "cdd20785-3ed7-4cc6-9eeb-993f6bf50759",
    "metadata": {},
    "outputs": [
@@ -163,7 +163,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 28,
+   "execution_count": 19,
    "id": "5acb8e5b-ff2d-4ada-b4ec-da6cc683bf6a",
    "metadata": {},
    "outputs": [
@@ -181,7 +181,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 29,
+   "execution_count": 20,
    "id": "918ca4f6-e7a1-4898-8c84-93cb77edb815",
    "metadata": {},
    "outputs": [
@@ -191,7 +191,7 @@
        "int"
       ]
      },
-     "execution_count": 29,
+     "execution_count": 20,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -202,7 +202,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 31,
+   "execution_count": 22,
    "id": "564dbdcc-9891-424c-9fa7-31cc78ab9721",
    "metadata": {},
    "outputs": [
@@ -212,7 +212,7 @@
        "' '"
       ]
      },
-     "execution_count": 31,
+     "execution_count": 22,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -223,54 +223,8 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 32,
-   "id": "d928e281-d153-46e1-8243-7c40bd5cc7ba",
-   "metadata": {},
-   "outputs": [
-    {
-     "name": "stdin",
-     "output_type": "stream",
-     "text": [
-      "Enter a number:  2\n"
-     ]
-    }
-   ],
-   "source": [
-    "result = input(\"Enter a number: \")"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 33,
-   "id": "921d4fd1-5a13-4d5a-b1b0-ad9987cd90e0",
-   "metadata": {},
-   "outputs": [
-    {
-     "name": "stdin",
-     "output_type": "stream",
-     "text": [
-      "Enter Number:  2\n"
-     ]
-    },
-    {
-     "data": {
-      "text/plain": [
-       "'2'"
-      ]
-     },
-     "execution_count": 33,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "input(\"Enter Number: \")"
-   ]
-  },
-  {
-   "cell_type": "code",
    "execution_count": null,
-   "id": "0c7d0cba-59e1-496b-be3d-0d83f5f9a15b",
+   "id": "d928e281-d153-46e1-8243-7c40bd5cc7ba",
    "metadata": {},
    "outputs": [],
    "source": []
